@@ -1,0 +1,16 @@
+{
+  "expenses": [
+    {
+      "date": "2024-01-18 21:17:57",
+      "amount": 2000.0,
+      "category": "petrol",
+      "description": "bike petrol"
+    },
+    {
+      "date": "2024-01-18 21:18:40",
+      "amount": 23000.0,
+      "category": "house rent",
+      "description": "house"
+    }
+  ]
+}
